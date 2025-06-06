@@ -4,13 +4,13 @@ A Python CLI program for managing doctors and patients using text files. Designe
 
 📌 Features
 
-	- Add, remove, edit, and search doctors
-	- Add, remove, edit, and list patients
-	- Filter patients by assigned doctor
-	- Search doctors by specialty
-	- Input validation (e.g. mobile number, national code)
-	- Colored output using `colorama` for better UX
-	- Simple data persistence with `.txt` files
+- Add, remove, edit, and search doctors
+- Add, remove, edit, and list patients
+- Filter patients by assigned doctor
+- Search doctors by specialty
+- Input validation (e.g. mobile number, national code)
+- Colored output using `colorama` for better UX
+- Simple data persistence with `.txt` files
 
 🚀 How to Run
 
